@@ -124,7 +124,7 @@ The following parameters are accepted by `geo_point` fields:
 
 <<null-value,`null_value`>>::
 
-    Accepts an geopoint value which is substituted for any explicit `null` values.
+    Accepts a geopoint value which is substituted for any explicit `null` values.
     Defaults to `null`, which means the field is treated as missing.
 
 ==== Using geo-points in scripts
